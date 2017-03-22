@@ -1,0 +1,2 @@
+Version,Patient,Recording,Startdate,Startime,Bytes,Reserved,NumRec,Duration,NumSig
+0       ,26 M X giri                                                                     ,Startdate 07-MAR-2015 X X NeuroMax32_Software_generated_file                    ,07.03.15,16.14.32,8704    ,EDF+C                                       ,129,1       ,32
